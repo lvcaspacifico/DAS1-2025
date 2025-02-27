@@ -13,4 +13,5 @@
 * Componentes -> São pequenas partes de código reutilizáveis
 * HttpServeletRequest -> Java entende pacotes vindos via rede por ele
 * Modulos -> Parte de um sistema com finalidade especificada
-* Interfaces -> Pontes de conexão entre módulos.
+* Interfaces -> Pontes de conexão entre módulos
+* Serviços -> São utilidades para o sistema
