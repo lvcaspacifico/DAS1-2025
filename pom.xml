@@ -9,10 +9,8 @@
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
-        <dependency>
-            eventos
-        </dependency>
-        
+        <dependency>eventos</dependency>
+        <dependency>pipeline</dependency>
     </dependencies>
 
 </project>
