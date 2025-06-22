@@ -13,5 +13,6 @@
         <module>eventos</module>
         <module>pipeline</module>
         <module>app-a</module>
+        <module>app-b</module> 
     </modules> 
 </project>
